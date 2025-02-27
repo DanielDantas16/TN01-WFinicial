@@ -1,0 +1,17 @@
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\bin\Debug\net8.0-windows\WFinicial.exe
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\bin\Debug\net8.0-windows\WFinicial.deps.json
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\bin\Debug\net8.0-windows\WFinicial.runtimeconfig.json
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\bin\Debug\net8.0-windows\WFinicial.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\bin\Debug\net8.0-windows\WFinicial.pdb
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.Form1.resources
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.csproj.GenerateResource.cache
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.AssemblyInfoInputs.cache
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.AssemblyInfo.cs
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.csproj.CoreCompileInputs.cache
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\refint\WFinicial.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.pdb
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.genruntimeconfig.cache
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\ref\WFinicial.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\WFinicial\obj\Debug\net8.0-windows\WFinicial.sourcelink.json

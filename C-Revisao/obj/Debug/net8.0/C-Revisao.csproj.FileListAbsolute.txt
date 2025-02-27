@@ -1,0 +1,15 @@
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\bin\Debug\net8.0\C-Revisao.exe
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\bin\Debug\net8.0\C-Revisao.deps.json
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\bin\Debug\net8.0\C-Revisao.runtimeconfig.json
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\bin\Debug\net8.0\C-Revisao.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\bin\Debug\net8.0\C-Revisao.pdb
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.AssemblyInfoInputs.cache
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.AssemblyInfo.cs
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.csproj.CoreCompileInputs.cache
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\refint\C-Revisao.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.pdb
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.genruntimeconfig.cache
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\ref\C-Revisao.dll
+C:\Users\daniel.gdalmeida\source\repos\WFinicial\C-Revisao\obj\Debug\net8.0\C-Revisao.sourcelink.json
