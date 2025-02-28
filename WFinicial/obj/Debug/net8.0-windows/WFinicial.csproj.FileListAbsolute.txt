@@ -18,3 +18,4 @@ C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0
 C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\WFInicial.genruntimeconfig.cache
 C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\ref\WFInicial.dll
 C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\WFInicial.Form4.resources
+C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\WFInicial.Form5.resources

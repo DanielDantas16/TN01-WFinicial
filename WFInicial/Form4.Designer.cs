@@ -43,6 +43,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(100, 23);
             textBox2.TabIndex = 9;
+            
             // 
             // lblNum2
             // 
@@ -52,6 +53,7 @@
             lblNum2.Size = new Size(63, 15);
             lblNum2.TabIndex = 8;
             lblNum2.Text = "Numero 2:";
+        
             // 
             // lblNum1
             // 
@@ -61,6 +63,7 @@
             lblNum1.Size = new Size(63, 15);
             lblNum1.TabIndex = 7;
             lblNum1.Text = "Numero 1:";
+          
             // 
             // btnmaior
             // 
@@ -78,6 +81,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 5;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox3
             // 
@@ -85,6 +89,7 @@
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(100, 23);
             textBox3.TabIndex = 11;
+        
             // 
             // label1
             // 
@@ -94,6 +99,7 @@
             label1.Size = new Size(63, 15);
             label1.TabIndex = 10;
             label1.Text = "Numero 2:";
+           
             // 
             // Form4
             // 
