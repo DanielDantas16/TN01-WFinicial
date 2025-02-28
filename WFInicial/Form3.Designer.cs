@@ -33,6 +33,8 @@
             lblNum1 = new Label();
             lblNum2 = new Label();
             textBox2 = new TextBox();
+            textBox3 = new TextBox();
+            lblnum3 = new Label();
             SuspendLayout();
             // 
             // textBox1
@@ -44,7 +46,7 @@
             // 
             // btnmaior
             // 
-            btnmaior.Location = new Point(355, 216);
+            btnmaior.Location = new Point(355, 265);
             btnmaior.Name = "btnmaior";
             btnmaior.Size = new Size(100, 23);
             btnmaior.TabIndex = 1;
@@ -79,11 +81,29 @@
             textBox2.Size = new Size(100, 23);
             textBox2.TabIndex = 4;
             // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(355, 214);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(100, 23);
+            textBox3.TabIndex = 6;
+            // 
+            // lblnum3
+            // 
+            lblnum3.AutoSize = true;
+            lblnum3.Location = new Point(286, 214);
+            lblnum3.Name = "lblnum3";
+            lblnum3.Size = new Size(63, 15);
+            lblnum3.TabIndex = 5;
+            lblnum3.Text = "Numero 3:";
+            // 
             // Form3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox3);
+            Controls.Add(lblnum3);
             Controls.Add(textBox2);
             Controls.Add(lblNum2);
             Controls.Add(lblNum1);
@@ -102,5 +122,7 @@
         private Label lblNum1;
         private Label lblNum2;
         private TextBox textBox2;
+        private TextBox textBox3;
+        private Label lblnum3;
     }
 }
