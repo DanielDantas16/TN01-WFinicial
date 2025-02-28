@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WFinicial")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WFInicial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb3b1bda238e4725dabc677fd8f66f8596012853")]
-[assembly: System.Reflection.AssemblyProductAttribute("WFinicial")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WFinicial")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952a6e227ba5d500677a02212f68c271f5daf780")]
+[assembly: System.Reflection.AssemblyProductAttribute("WFInicial")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WFInicial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

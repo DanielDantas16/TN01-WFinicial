@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.gdalmeida\\source\\repos\\WFinicial\\WFinicial\\WFinicial.csproj",
-      "projectName": "WFinicial",
-      "projectPath": "C:\\Users\\daniel.gdalmeida\\source\\repos\\WFinicial\\WFinicial\\WFinicial.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.gdalmeida\\source\\repos\\TN01-WFinicial\\WFInicial\\WFInicial.csproj",
+      "projectName": "WFInicial",
+      "projectPath": "C:\\Users\\daniel.gdalmeida\\source\\repos\\TN01-WFinicial\\WFInicial\\WFInicial.csproj",
       "packagesPath": "C:\\Users\\daniel.gdalmeida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.gdalmeida\\source\\repos\\WFinicial\\WFinicial\\obj\\",
+      "outputPath": "C:\\Users\\daniel.gdalmeida\\source\\repos\\TN01-WFinicial\\WFInicial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
