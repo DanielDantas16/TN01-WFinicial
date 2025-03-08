@@ -26,3 +26,4 @@ C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0
 C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\WFInicial.Form10.resources
 C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\WFInicial.Form9.resources
 C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\WFInicial.Form11.resources
+C:\Users\daniel.gdalmeida\source\repos\TN01-WFinicial\WFInicial\obj\Debug\net8.0-windows\WFInicial.Form12.resources

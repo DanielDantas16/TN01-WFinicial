@@ -85,5 +85,10 @@ namespace WFInicial
             form.ShowDialog();
         }
 
+        private void btn12_Click(object sender, EventArgs e)
+        {
+            Form12 form = new Form12();
+            form.ShowDialog();
+        }
     }
 }
