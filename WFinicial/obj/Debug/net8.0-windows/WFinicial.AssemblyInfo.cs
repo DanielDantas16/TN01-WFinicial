@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WFInicial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27ebf4dc82a74516e3c0e11dbaf2b73eda63c3e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b2b219b4980cdf1e49e552fb631140c92ccd85")]
 [assembly: System.Reflection.AssemblyProductAttribute("WFInicial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WFInicial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

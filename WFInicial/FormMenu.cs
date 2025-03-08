@@ -76,5 +76,14 @@ namespace WFInicial
             Form10 form = new Form10();
             form.ShowDialog();
         }
+
+
+
+        private void btn11_Click(object sender, EventArgs e)
+        {
+            Form11 form = new Form11();
+            form.ShowDialog();
+        }
+
     }
 }
